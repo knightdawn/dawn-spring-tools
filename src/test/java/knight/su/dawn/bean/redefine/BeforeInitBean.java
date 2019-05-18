@@ -1,4 +1,4 @@
-package knight.su.dawn.bean;
+package knight.su.dawn.bean.redefine;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;
